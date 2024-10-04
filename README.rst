@@ -1,8 +1,7 @@
 Django CSV Import
 =================
 
-Ed Crewe - December 2023
-
+ 
 Overview
 --------
 
